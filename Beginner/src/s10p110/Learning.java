@@ -1,0 +1,5 @@
+package s10p110;
+
+public enum Learning {
+	COREJAVA, COLLECTIONS, GENERICS, JSPANDSERVLETS, MULTITHREADING; 
+}
